@@ -1,0 +1,8 @@
+.single{
+    border: 2px solid gray;
+}
+.single h2{
+    font-size: 40px;
+    color: indigo;
+    font-weight: 900;
+}
